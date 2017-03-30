@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*box-sizing: border-box;*/
+    background-color: #1C1C1C;
+    
+    
+}
+
+.coffe-mug{
+background: url(clem-onojeghuo-176512.png);
+background-position: center;
+margin:auto
+opacity: 1.00; 
+}
+.coffe-mug img{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width:100%;
+}
+
+
+
+/* Coffee tastes better in our mugs! */
+h2{
+font-family: "PT Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 100%;
+color: #FFFFFF;
+opacity: 1.00;
+text-align: center;
+}
+h3{
+/* Adventurous mug */
+font-family: "PT Sans";
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 100%;
+color: #FFFFFF;
+opacity: 1.00;
+text-align:center;
+}
+
+
+.mugs img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;
+    margin-bottom: 30px;
+    width:288px;
+    height:192px;
+    
+}
+
+
+footer{
+margin-top:50px;
+font-family: "PT Sans";
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 100%;
+color: #FFFFFF;
+opacity: 1.00;
+text-align: center
+}
+
+iframe{
+    height:320px;
+    width:250px;
+}
+ol{
+    list-style: none;
+        
+}
+h4{
+/* © Deluxe Mugs Co */
+font-family: "PT Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 100%;
+color: #FFFFFF;
+opacity: 1.00;
+}
+
+
+
+
+
+
+
+

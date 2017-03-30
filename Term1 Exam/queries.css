@@ -1,0 +1,47 @@
+@media screen and (min-width: 728px){
+  html{
+    font-size: 32px;
+  }
+.coffe-mug{
+
+text-align: center;
+height:auto;
+width:576px;
+margin: 0 auto;
+}
+    
+    .mugs{
+        text-align: center;
+        height:719;
+        width:576px;
+        margin: 0 auto;
+        overflow: hidden;
+        
+        
+    /*overflow: hidden;
+    width:604;
+    height:719px;
+    text-align: center;
+    margin: 0 auto;*/
+  }
+    .mugs li{
+        float:left;
+    }
+
+    iframe{
+        height:320px;
+        width:604px;;
+    }
+    /*li{
+    
+    float:left;
+    width: 280px;
+    height:auto;
+    padding-right: 10%;
+  }
+
+    .mugs img{
+        margin-left:10%;
+        margin-right:10%;
+    }*/
+    
